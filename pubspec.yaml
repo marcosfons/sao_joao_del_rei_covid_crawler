@@ -1,0 +1,14 @@
+name: sao_joao_del_rei_covid_crawler
+description: A crawler for the cases of Covid in São João del Rei
+version: 0.0.0+1
+homepage: https://github.com/marcosfons/sao_joao_del_rei_covid_crawler
+
+environment:
+  sdk: '>2.4.0 < 3.0.0'
+
+dependencies:
+  dio: ^3.0.9
+  html: ^0.14.0+3
+
+dev_dependencies:
+  test:
