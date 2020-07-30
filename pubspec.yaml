@@ -9,6 +9,8 @@ environment:
 dependencies:
   dio: ^3.0.9
   html: ^0.14.0+3
+  intl: ^0.16.1
+  csv: ^4.0.3
 
 dev_dependencies:
   test:
